@@ -1,0 +1,18 @@
+[
+  {
+    "userId": "U001",
+    "name": "Nguyễn Thị C",
+    "email": "nguyenthic@gmail.com",
+    "phone": "0987654321",
+    "address": "123 Đường ABC, Hà Nội",
+    "membershipType": "student"
+  },
+  {
+    "userId": "U002",
+    "name": "Lê Văn D",
+    "email": "levand@gmail.com",
+    "phone": "0912345678",
+    "address": "456 Đường XYZ, TP.HCM",
+    "membershipType": "teacher"
+  }
+]

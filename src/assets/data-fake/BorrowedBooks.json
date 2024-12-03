@@ -1,0 +1,20 @@
+[
+  {
+    "borrowId": "BR001",
+    "userId": "U001",
+    "bookId": "B001",
+    "borrowDate": "2024-12-01",
+    "dueDate": "2024-12-15",
+    "returnDate": null,
+    "status": "not returned"
+  },
+  {
+    "borrowId": "BR002",
+    "userId": "U002",
+    "bookId": "B002",
+    "borrowDate": "2024-11-25",
+    "dueDate": "2024-12-05",
+    "returnDate": "2024-12-03",
+    "status": "returned"
+  }
+]

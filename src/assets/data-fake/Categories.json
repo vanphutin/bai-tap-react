@@ -1,0 +1,12 @@
+[
+  {
+    "categoryId": "C001",
+    "name": "Lập trình",
+    "description": "Sách về ngôn ngữ lập trình và công nghệ phần mềm"
+  },
+  {
+    "categoryId": "C002",
+    "name": "Khoa học",
+    "description": "Sách về các lĩnh vực khoa học tự nhiên và ứng dụng"
+  }
+]

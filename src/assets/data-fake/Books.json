@@ -1,0 +1,22 @@
+[
+  {
+    "bookId": "B001",
+    "title": "Lập trình C cơ bản",
+    "author": "Nguyễn Văn A",
+    "category": "Lập trình",
+    "publisher": "NXB Giáo dục",
+    "yearPublished": 2021,
+    "status": "available",
+    "quantity": 5
+  },
+  {
+    "bookId": "B002",
+    "title": "Python nâng cao",
+    "author": "Trần Văn B",
+    "category": "Lập trình",
+    "publisher": "NXB Khoa học",
+    "yearPublished": 2020,
+    "status": "borrowed",
+    "quantity": 2
+  }
+]
